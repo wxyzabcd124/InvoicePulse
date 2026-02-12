@@ -1,0 +1,5 @@
+{
+  "name": "InvoicePulse2",
+  "description": "A simple and elegant React web application for generating and managing invoices, built with TypeScript and Tailwind CSS. All data is stored locally in your browser's localStorage.",
+  "requestFramePermissions": []
+}
